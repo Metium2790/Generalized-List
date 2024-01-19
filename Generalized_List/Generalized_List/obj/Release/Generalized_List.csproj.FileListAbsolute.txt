@@ -1,0 +1,5 @@
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\bin\Release\UniProject-22.exe.config
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\bin\Release\UniProject-22.exe
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\bin\Release\UniProject-22.pdb
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\obj\Release\UniProject-22.exe
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\obj\Release\UniProject-22.pdb
