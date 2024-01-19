@@ -1,0 +1,6 @@
+c:\users\meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\bin\Debug\UniProject-22.exe.config
+c:\users\meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\bin\Debug\UniProject-22.exe
+c:\users\meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\bin\Debug\UniProject-22.pdb
+c:\users\meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\obj\Debug\UniProject-22.csprojResolveAssemblyReference.cache
+c:\users\meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\obj\Debug\UniProject-22.exe
+c:\users\meti\documents\visual studio 2012\Projects\UniProject-22\UniProject-22\obj\Debug\UniProject-22.pdb
